@@ -1,0 +1,12 @@
+The animated scene is supposed to show a space sequence with an animated planet, spaceship, and randomly passing meteors.
+
+The "Planet" class creates a sphere and applies a texture to it, and afterwards animates it. The animation should rotate the planet slowly and draw it continuously towards the viewer.
+
+The "Meteor" class imports an .obj file to use for the shape, and then animates. The animations are a rotation and translation away from the viewer in the z axis.
+
+The final class is the "Spaceship". This class imports an .obj file to use as the shape, and then animates it. The ship rotates and turns around the "earth" created by the Planet class. 
+
+
+Planet class: Created by William
+Meteor class: Created by Rebekah
+Spaceship class: Created by Seongwoo

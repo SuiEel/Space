@@ -1,0 +1,1 @@
+After opening the "group_2_assignment5.pde" file in this folder, press the "Run" button in Processing 3. This should begin the animated scene.
